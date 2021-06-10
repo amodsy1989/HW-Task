@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* font-family: 'ui-sans-serif'; */
+}
+
+.container {
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    padding: 20px;;
+}
+
+h2 {
+  margin-bottom: 30px;;
+}
+
+.container-elm {
+  margin: 20px 0 20px 0;
+}
+.container-elm .item-right{
+  float: right;
+}
+.container-items {
+  width: 100%;
+  border: 0.5px solid grey;
+  border-left: 4px solid black;
+  margin-bottom: 20px;
+}
+
+.container-item-time {
+  color: grey;
+  padding: 5px;
+}
+
+.container-item-disc {
+  padding: 5px;
+  font-weight: 500;
+}
